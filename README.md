@@ -1,2 +1,2 @@
-# First-Repo
-I am learning Github
+# Project - Scientific Calculator
+This project combines elements of software design, algorithmic problem-solving, and GUI development to create a robust and user-friendly calculator application. By implementing both simple and advanced calculator functionalities, it caters to a wide range of user needs, from basic arithmetic calculations to more complex mathematical expressions. Additionally, by avoiding the use of built-in evaluation functions, the project promotes understanding of fundamental concepts and enhances security by preventing potential exploits.
